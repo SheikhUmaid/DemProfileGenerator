@@ -17,7 +17,7 @@ pip install demoProfile
 from demoProfile import generate
 img = generate("sheikh umaid")
 img.save("profile.png")
-
+```
 
 ```
 
