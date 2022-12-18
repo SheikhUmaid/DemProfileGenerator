@@ -20,6 +20,7 @@ def generate(string,color_bg=False):
     text = string.upper()
     color = 'rgb(255, 255, 255)'
     draw.text((width/2, height/2), text[0], fill=color, font=font, anchor='mm')
+    #added this comment
     return img
 
 
